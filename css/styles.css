@@ -1,0 +1,13 @@
+            body {background-color: white; color: black;}
+            main { display: grid; justify-content: center;}
+            #container { text-align: center; margin-top: 2em; }
+            h1, h2, h3 {font-family: 'Courgette', cursive; font-size: 3em; margin: 0; color: #e85d5a;}
+            h2 {font-size: 6em; color: #e85d5a;}
+            p {font-family: 'Quicksand', sans-serif; font-size: 2em;}
+            hr {border: 2px solid white;}
+            a {color: #e85d5a;}
+            a:hover {text-decoration: none; color: #6ec43f;}
+            .top {margin-top: 2em; border: 3px solid #e85d5a;}
+
+
+
